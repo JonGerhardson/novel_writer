@@ -4,7 +4,7 @@ This project uses a multi-agent system built with `pyautogen` to automatically w
 
 ## How to Use
 
-1.  **Install Dependencies:**
+1.  **Clone repo and Install Dependencies:**
     ```
     pip install pyautogen
     ```
